@@ -1,5 +1,4 @@
 <img src="https://imgur.com/OhRDCEj.png">
-<!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)"> -->
 
 ## <div id="header" align="center"> Hey im Connor (aka Ajnabe), a 20 year old Fullstack Developer and Designer. </div>
 
@@ -30,3 +29,14 @@
     <b>🎨 Design:</b> <b>200+</b> graphic | <b>200+</b> animation
   </li>
 </ul>
+
+### Links
+* Discord Server: [discord.gg/flightdev](https://discord.gg/flightdev)
+* Fivem Store: [fivem.flightdev.co](https://fivem.flightdev.co)
+* Behance: [behance.net/ajnabe](https://www.behance.net/ajnabe)
+
+### Contact Me
+* Discord: [ajnabe](https://discordapp.com/users/823961539442507836)
+* Email: [dev@flightdev.co](mailto:dev@flightdev.co)
+
+ 
