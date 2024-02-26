@@ -36,7 +36,7 @@
 * Behance: [behance.net/ajnabe](https://www.behance.net/ajnabe)
 
 ### Contact Me
-* Discord: [ajnabe](https://discordapp.com/users/823961539442507836)
+* Discord Server: [discord.gg/flightdev](https://discord.gg/flightdev)
 * Email: [dev@flightdev.co](mailto:dev@flightdev.co)
 
  
