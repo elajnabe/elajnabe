@@ -1,6 +1,6 @@
 <img src="https://imgur.com/OhRDCEj.png">
 
-## <div id="header" align="center"> Hey im Connor (aka Ajnabe), a 20 year old Fullstack Developer and Designer. </div>
+## <div id="header" align="center"> Hey im Connor (aka Ajnabe), a 22 year old Fullstack Developer and Designer. </div>
 
 ### Fields of Work
 
